@@ -286,4 +286,5 @@ assets/*.min.*
 *.min.js
 *.min.css
 
-$%
+#ignorar los .map
+*.map.*
